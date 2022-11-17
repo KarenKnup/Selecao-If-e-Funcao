@@ -27,4 +27,16 @@ main 19 - Desenvolver uma função que exiba todos os números primos inferiores
 main 20 - Implementar uma função que, dado um número inteiro N, exiba uma sequência de números como as ilustradas nos exemplos. <br>
 main 21 - Implementar uma função que, dado um número inteiro n, e o intervalo definido pelos números a e b, determine quantos valores do intervalo possuem divisores (sendo estes diferentes de 1) que também sejam divisores de n. <br>
 main 22 - Desenvolver uma função que determine o número de ocorrências de um número inteiro x em um vetor A. <br>
-main 23 - Pede-se a implementação de uma função que, dado um vetor contendo números reais, determine se o mesmo encontra-se ordenado de forma crescente.
+main 23 - Pede-se a implementação de uma função que, dado um vetor contendo números reais, determine se o mesmo encontra-se ordenado de forma crescente. <br>
+main 24 - Sucessor e Antecessor de um número. <br>
+main 25 - Valor a pagar por produto em promoção. <br>
+main 26 - Faça um programa que mostre o valor da entrada e de cada parcela a ser paga por uma pessoa. O total comprado e o número de parcelas serão fornecidos pelo usuário. A loja só parcela 70% do montante e cobra 20% de taxa de administração de crédito sobre o valor parcelado quando for dividido em mais de 10x. <br>
+main 27 - Moldura x Preço. <br>
+main 28 - Média Ponderada com 2 notas. <br>
+main 29 - Por quantos dias o livro ficou emprestado. <br>
+main 30 - Altura em m/cm. <br>
+main 31 - Faça um algoritmo que calcule o desempenho de um carro em uma viagem. A distância percorrida e a quantidade de litros colocados serão informados pelo usuário. <br>
+main 32 - Faça um algoritmo que calcule e mostre a área de uma sala retangular cujas medidas reais são fornecidas pelo usuário. <br>
+main 33 - Faça um algoritmo que calcule e mostre a área e o perímetro de uma sala retangular cujas medidas reais são fornecidas pelo usuário.  <br>
+main 34 - Faça um algoritmo que mostre o valor da entrada e de cada parcela a ser paga por uma pessoa. O total comprado e o número de parcelas será fornecido pelo usuário. A loja só parcela 70% do montante. <br>
+main 35 - Média Aritmética.
