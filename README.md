@@ -40,4 +40,5 @@ main 31 - Faça um algoritmo que calcule o desempenho de um carro em uma viagem.
 main 32 - Faça um algoritmo que calcule e mostre a área de uma sala retangular cujas medidas reais são fornecidas pelo usuário. <br>
 main 33 - Faça um algoritmo que calcule e mostre a área e o perímetro de uma sala retangular cujas medidas reais são fornecidas pelo usuário.  <br>
 main 34 - Faça um algoritmo que mostre o valor da entrada e de cada parcela a ser paga por uma pessoa. O total comprado e o número de parcelas será fornecido pelo usuário. A loja só parcela 70% do montante. <br>
-main 35 - Média Aritmética.
+main 35 - Média Aritmética. <br>
+main 36 -  Desenvolver uma função que, dado um número inteiro n, exiba todos os números existentes no intervalo definido por a e b (a < b), exceto aqueles que forem múltiplos de n.
