@@ -1,6 +1,13 @@
 
 <div align="center">
-<h1>Introdução à Linguagem C</h1><br><br> </div>
+<h1>Introdução à Linguagem C</h1><br>
+
+<h3>Sobre / About</h3> </div>
+
+`A instrução IF permite execução condicional com base em testes lógicos. Funções são blocos reutilizáveis ​​de código projetados para executar tarefas ou cálculos específicos.`
+
+`The IF statement allows conditional execution based on logical tests. Functions are reusable blocks of code designed to perform specific tasks or calculations.`
+
 
 - Seleção - If
 - Função
